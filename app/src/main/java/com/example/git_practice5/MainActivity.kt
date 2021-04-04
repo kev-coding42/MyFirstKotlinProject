@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         println("Fuck change")
         println("Fuck change again")
 
+        println("new day")
+
 
     }
 }
