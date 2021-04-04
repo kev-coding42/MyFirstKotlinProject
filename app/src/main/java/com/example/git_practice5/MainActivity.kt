@@ -12,6 +12,9 @@ class MainActivity : AppCompatActivity() {
         println("Fuck change again")
 
         println("Change fucking example branch")
+        println("second change in example")
+        println("will not show in master")
+
 
     }
 }
