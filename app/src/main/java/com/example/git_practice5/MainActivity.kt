@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("I am terrible programmer")
         println("I don't know what to do")
 
-
+        /////////////////////////
+        println("This is clone commit")
     }
 }
