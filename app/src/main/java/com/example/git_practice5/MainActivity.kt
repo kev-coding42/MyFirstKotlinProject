@@ -8,12 +8,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("Fuck change")
-        println("Fuck change again")
 
-        println("Change fucking example branch")
-        println("second change in example")
-        println("will not show in master")
+        println("Learning Git after 4 years")
+        println("I am terrible programmer")
+        println("I don't know what to do")
 
 
     }
